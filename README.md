@@ -1,6 +1,6 @@
 # Simple Interest Calculator
 
-A basic calculator that calculates simple interest based on the principal amount, rate of interest, and time period.
+A simple calculator that calculates simple interest based on the principal amount, rate of interest, and time period.
 
 ## Formula
 
