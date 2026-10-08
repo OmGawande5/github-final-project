@@ -1,7 +1,9 @@
 $ git checkout main
 M	merge_branches
-Your branch is ahead of 'origin/main' by 1 commit.
-  (use "git push" to publish your local commits)
+Your branch is up to date with 'origin/main'.
 Already on 'main'
 $ git merge bug-fix-typo
-Already up to date.
+warning: in the working copy of 'merge_branches', LF will be replaced by CRLF the next time Git touches it
+Merge made by the 'ort' strategy.
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
