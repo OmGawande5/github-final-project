@@ -14,7 +14,7 @@ Simple Interest = (Principal × Rate × Time) / 100
 
 ## Output
 
-The calculator displays the calculated simple interest based on the values entered by the user.
+The calculator displays the calculated simple interest based on the values provided by the user.
 
 ## How It Works
 
